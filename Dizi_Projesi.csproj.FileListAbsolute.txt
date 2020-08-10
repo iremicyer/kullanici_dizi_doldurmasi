@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\bin\Debug\netcoreapp3.1\Dizi_Projesi.exe
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\bin\Debug\netcoreapp3.1\Dizi_Projesi.deps.json
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\bin\Debug\netcoreapp3.1\Dizi_Projesi.runtimeconfig.json
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\bin\Debug\netcoreapp3.1\Dizi_Projesi.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\bin\Debug\netcoreapp3.1\Dizi_Projesi.dll
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\bin\Debug\netcoreapp3.1\Dizi_Projesi.pdb
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\obj\Debug\netcoreapp3.1\Dizi_Projesi.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\obj\Debug\netcoreapp3.1\Dizi_Projesi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\obj\Debug\netcoreapp3.1\Dizi_Projesi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\obj\Debug\netcoreapp3.1\Dizi_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\obj\Debug\netcoreapp3.1\Dizi_Projesi.dll
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\obj\Debug\netcoreapp3.1\Dizi_Projesi.pdb
+C:\Users\Administrator\source\repos\Dizi_Projesi\Dizi_Projesi\obj\Debug\netcoreapp3.1\Dizi_Projesi.genruntimeconfig.cache
